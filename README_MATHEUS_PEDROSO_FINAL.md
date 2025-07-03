@@ -21,7 +21,7 @@ Gosto de resolver problemas com código. Se tiver uma ideia maluca e quiser colo
 ### 🎓 Formação
 
 - 📍 **Pós-graduação em andamento**: *Machine Learning Engineering*  
-- 🎓 Formação sólida em desenvolvimento backend com foco em automações, APIs e integração com dados externos  
+- 🎓 Formação em Análise e desenvolvimento de sistemas - backend com foco em automações, APIs e integração com dados externos  
 - 🚀 Aprendizado contínuo com projetos próprios, estudo ativo e muita mão no código
 
 ---
@@ -33,7 +33,7 @@ Gosto de resolver problemas com código. Se tiver uma ideia maluca e quiser colo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  
 </div>
 
 ---
