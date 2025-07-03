@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Dev+Python+%7C+Scraping+%7C+APIs;Projetos+pr%C3%A1ticos+e+focados+em+resultados;Gamer+e+tech+lover+%F0%9F%91%BD](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Projetos+em+Python;+Scraping+e+APIs+com+FastAPI;+Monitoramento+via+OBD2)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Dev+Python+%7C+Scraping+%7C+APIs;Projetos+%C3%Praticos+e+focados+em+resultados;Gamer+e+tech+lover+%F0%9F%91%BD" />
 </p>
 
 ---
